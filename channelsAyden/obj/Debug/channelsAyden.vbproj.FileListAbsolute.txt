@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\channelsAyden\channelsAyden\bin\Debug\channelsAyden.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\channelsAyden\channelsAyden\bin\Debug\channelsAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\channelsAyden\channelsAyden\bin\Debug\channelsAyden.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\channelsAyden\channelsAyden\bin\Debug\channelsAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\channelsAyden\channelsAyden\obj\Debug\channelsAyden.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\channelsAyden\channelsAyden\obj\Debug\channelsAyden.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\channelsAyden\channelsAyden\obj\Debug\channelsAyden.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\channelsAyden\channelsAyden\obj\Debug\channelsAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\channelsAyden\channelsAyden\obj\Debug\channelsAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\channelsAyden\channelsAyden\obj\Debug\channelsAyden.pdb
